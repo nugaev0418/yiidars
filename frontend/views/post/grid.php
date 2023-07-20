@@ -76,7 +76,7 @@ echo \yii\grid\GridView::widget([
             'label' => 123,
             'format' => 'raw',
             'value' => function(){
-                return '<button type="button" class="btn btn-primary">Primary</button>';
+                return '<button type="button" class="btn btn-primary">Bu tugma</button>';
             }
         ]
     ]
